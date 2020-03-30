@@ -49,7 +49,7 @@ Basic Auth 的帳號密碼, 另外在 header 要送 Accept: application/json)
 
 如果開發時，使用 GitHub 上的 [Portal3g-php-oauth](https://github.com/ncucc/portal3g-php-oauth)
 的話，可以把 vendor/linuzilla/portal3g-php-oauth/src/NCUPortal.php 置換成這個
-[NCUPortal.php](https://raw.githubusercontent.com/ncucc/portal4g-docs/master/NCUPortal.php)
+[NCUPortal.php](https://raw.githubusercontent.com/ncucc/portal4g-doc/master/NCUPortal.phpp)
 
 ### Samples
 
