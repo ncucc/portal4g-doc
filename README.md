@@ -55,3 +55,4 @@ Basic Auth 的帳號密碼, 另外在 header 要送 Accept: application/json)
 
 * [Java / Spring Framework](https://github.com/ncucc/portal4g-java-oauth-client)
 * [PHP / Laravel](https://github.com/ncucc/laravel-socialite-portal-provider)
+* [非框架式 PHP 增加 OAuth ](https://github.com/ncucc/legacy-php-portal-oauth)
